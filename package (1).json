@@ -1,0 +1,12 @@
+{
+  "name": "mentha-app",
+  "version": "1.0.0",
+  "description": "Méntha - Recetas naturales personalizadas",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": ["mentha", "glucose"],
+  "author": "",
+  "license": "MIT"
+}
